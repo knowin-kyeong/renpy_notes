@@ -16,7 +16,11 @@
 입력을 str로 받고, 원소로 접근했기 때문에 정수계수 한 자리 식만 계산할 수 있으며, 1x +..처럼 자릿수를 맞춰야 정상적으로 작동랍니다.
 
 ## note3 (9/15 완료)
-이 파일들은 각각 제가 참조한 별 그리기 코드, 뱀 게임 코드와 제가 설계한 미니게임을 담았습니다.
+이 파일들은 각각 제가 참조한 배경에 별 띄우기 코드, 뱀 게임 코드와 제가 설계한 미니게임을 담았습니다.
+
+별 띄우기 Reference: https://lemmasoft.renai.us/forums/viewtopic.php?t=35715
+
+뱀 게임 Reference: https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=65119
 
 렌파이 -> Displayable 객체 소환 -> 출력 logic을 연습했습니다.
 
