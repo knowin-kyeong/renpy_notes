@@ -18,19 +18,30 @@
 ## note3 (9/15 완료)
 이 파일들은 각각 제가 참조한 배경에 별 띄우기 코드, 뱀 게임 코드와 제가 설계한 미니게임을 담았습니다.
 
-별 띄우기 Reference: https://lemmasoft.renai.us/forums/viewtopic.php?t=35715
+branch1 - 별 띄우기 Reference: https://lemmasoft.renai.us/forums/viewtopic.php?t=35715
 
-뱀 게임 Reference: https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=65119
+branch2 - 뱀 게임 Reference: https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=65119
 
-렌파이 -> Displayable 객체 소환 -> 출력 logic을 연습했습니다.
+branch3 - 렌파이 -> Displayable 객체 소환 -> 출력 logic을 연습했습니다.
 
 ## note4 (9/16~)
 이 파일들은 note3에서 설계한 게임을 다듬는 과정들입니다. 앞으로의 계획은 다음과 같습니다.
 
 branch1 - 마우스 포인터를 입력받도록 변경 (성공)
 
-
 branch2 - 장애물 구현 (성공)
 
+branch3 - 한 방향으로 움직이는 장애물 구현 + 마우스 포인터를 시작 위치로 강제로 옮기기(성공)
 
-branch3 - 자잘한 버그 수정 (진행중...)
+branch4 - 다양한 방향으로움직이는 장애물 구현 (진행중...)
+
+branch5 - 자잘한 버그 수정 (아직 시작 안함..)
+
+## note5 ()
+이 파일들은 note4에서 설계한 게임(1스테이지짜리)의 스테이지를 추가하는 과정들입니다. 
+
+branch1 - 스테이지 2개의 전환 구현(아직 시작 안함..)
+
+branch2 - 스테이지 n개로 일반화(아직 시작 안함..)
+
++ 하고 싶은 게 생기면 다시 추가할 예정
