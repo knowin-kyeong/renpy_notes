@@ -22,7 +22,7 @@ branch1 - 별 띄우기 Reference: https://lemmasoft.renai.us/forums/viewtopic.p
 
 branch2 - 뱀 게임 Reference: https://lemmasoft.renai.us/forums/viewtopic.php?f=8&t=65119
 
-branch3 - 렌파이 -> Displayable 객체 소환 -> 출력 logic을 연습했습니다.
+branch3 - 간단한 목적지로 캐릭터 옮기는 게임 구현: Displayable 객체 소환 -> 출력 logic을 연습했습니다.
 
 ## note4 (9/16~)
 이 파일들은 note3에서 설계한 게임을 다듬는 과정들입니다. 앞으로의 계획은 다음과 같습니다.
